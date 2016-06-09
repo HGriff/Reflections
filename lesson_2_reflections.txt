@@ -1,1 +1,5 @@
 initializing a directory creates a new repository, which can store commits for version control. Use: git init and then git status
+
+staguing area is an intermediate zone where files can be loved from the directory to the repositriy in custom commits.
+
+Staging area gives complete control over the contents iof a commit
