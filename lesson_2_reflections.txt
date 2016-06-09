@@ -1,0 +1,1 @@
+initializing a directory creates a new repository, which can store commits for version control. Use: git init and then git status
