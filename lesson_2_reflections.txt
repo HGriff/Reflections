@@ -3,3 +3,5 @@ initializing a directory creates a new repository, which can store commits for v
 staguing area is an intermediate zone where files can be loved from the directory to the repositriy in custom commits.
 
 Staging area gives complete control over the contents iof a commit
+
+branches are helpful when making exp. changes to code or when changing projects drasticlaly while still poerserving the initial source.
